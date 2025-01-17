@@ -22,7 +22,7 @@ title: Bill Wang's Website
 email: bill@billweb.ca
 domain: billsboard.github.io
 description: This is a website
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://billsboard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  billsboard
 
