@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bill Wang's Website
+title: Bill Wang
 email: bill@billweb.ca
 domain: billsboard.github.io
 description: This is a website
@@ -32,6 +32,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
