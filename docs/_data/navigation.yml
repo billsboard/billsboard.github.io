@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects & Experience"
+    url: /projects
+  - title: "Resume"
+    url: /resume.pdf
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/billhewang
+    target: _blank
+  - title: "GitHub"
+    url: https://github.com/billsboard
+    target: _blank
